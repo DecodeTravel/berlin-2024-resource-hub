@@ -1,5 +1,21 @@
 # C-Chain/EVM Resources
 
+## KYC Verification
+
+Deploying smart contracts on the Camino Network requires the deployer's address to be KYC-verified, even for the testnet.
+
+Follow the guide below to complete the KYC verification, which generally takes only 5 minutes.
+
+https://docs.camino.network/guides/kyc
+
+## Get Funds (CAM Tokens)
+
+Use the Discord bot to get funds for the Columbus testnet. You can use the documentation page below for instructions.
+
+https://docs.camino.network/developer/guides/how-to-deploy-a-smart-contract#3-request-funds-from-the-discord-faucet
+
+**Heads up:** You will receive your funds to your X-Chain address (should start with `X-columbus`). Do not forget to transfer them (cross-chain transfer) to C-Chain. It is [explained](https://docs.camino.network/developer/guides/how-to-deploy-a-smart-contract#4-perform-cross-chain-transfer) in the document above.
+
 ## RPC Endpoints
 
 Use Columbus testnet for EVM related development.
