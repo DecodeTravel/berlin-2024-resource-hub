@@ -34,6 +34,8 @@ Use Columbus testnet for EVM related development.
 
 Camino Builder is a GitHub repository that guides developers through deploying and managing smart contracts on the Camino network, focusing on the travel industry. It includes tutorials on creating NFTs, token-gated access systems, KYC-compliant contracts, and more. The repo provides setup instructions for tools like Node.js and Hardhat, alongside resources for learning about smart contract security, front-end integration, and essential developer tools. Ideal for developers interested in blockchain innovations in travel.
 
+> ℹ️ Camino Builder repository contains a [Gitpod.io](https://gitpod.io/workspaces) config file. At the start of the workspace, this config file automatically installs the necessary NPM packages.
+
 ## MetaMask: How to Add C-Chain to MetaMask
 
 Use this docs page to add Columbus to MetaMask: https://docs.camino.network/guides/metamask-rpc-endpoints
@@ -58,6 +60,8 @@ Suppliers below have active bots on Camino Messenger.
 - **Installation:** https://docs.camino.network/camino-messenger/bot/installation
 - **Configuration:** https://docs.camino.network/camino-messenger/bot/configuration
 - **Partner Plugin:** https://docs.camino.network/camino-messenger/bot/partner-plugin
+
+> ℹ️ Camino Messenger Bot repository contains a [Gitpod.io](https://gitpod.io/workspaces) config file. You can use this repo in Gitpod's workspaces to automatically build the bot at the start of the workspace.
 
 ## Camino Messenger Partner Plugin Example
 
